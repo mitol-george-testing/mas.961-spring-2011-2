@@ -1,0 +1,40 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Business",
+      "Organizational Behavior"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies",
+      "Digital Media"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering"
+    ],
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "35fda4a3-9e6e-29c9-8d49-cdde29fdb5d4"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Networks, Complexity and Its Applications",
+  "course_description": "Networks are a ubiquitous way to represent complex systems, including those in the social and economic sciences. The goal of the course is to equip students with conceptual tools that can help them understand complex systems that emerge in both nature and social systems. This is a course intended for a general audience and will discuss applications of networks and complexity to diverse systems, including epidemic spreading, social networks and the evolution of economic development.\n",
+  "department_numbers": [
+    "MAS"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "MAS.961",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Projects with Examples"
+  ],
+  "title": "Course Metadata"
+}
